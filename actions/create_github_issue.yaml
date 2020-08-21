@@ -1,3 +1,0 @@
----
-workflow: "transposit/github_create_issue:v1.0.3"
-prettyName: "Create GitHub issue"
